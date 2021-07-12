@@ -1,0 +1,237 @@
+,Accuracy
+Achinese,0.984
+Afrikaans,0.988
+Albanian,0.96
+Alemannic German,0.924
+Amharic,0.98
+Arabic,0.984
+Aragonese,0.892
+Armenian,0.98
+Aromanian,0.828
+Arpitan,0.876
+Assamese,0.976
+Asturian,0.908
+Avar,0.672
+Aymara,0.924
+Azerbaijani,0.9759036144578314
+Banjar,0.872
+Banyumasan,0.756
+Bashkir,0.976
+Basque,0.988
+Bavarian,0.84
+Belarusian,0.9
+Belarusian (Taraschkewiza),0.76
+Bengali,0.876
+Bhojpuri,0.936
+Bishnupriya,0.84
+Bokmål,0.912
+Bosnian,0.436
+Breton,0.98
+Bulgarian,0.96
+Burmese,0.992
+Buryat,0.888
+Cantonese,0.712
+Catalan,0.924
+Cebuano,0.804
+Central Bikol,0.976
+Central Khmer,0.904
+Central Kurdish,1.0
+Chavacano,0.276
+Chechen,0.928
+Cherokee,0.976
+Chuvash,0.964
+Classical Nahuatl,0.652
+Cornish,0.984
+Corsican,0.968
+Crimean Tatar,0.908
+Croatian,0.404
+Czech,0.968
+Danish,0.92
+Dhivehi,0.996
+Dimli,0.988
+Doteli,0.808
+Dutch,0.9397590361445783
+Eastern Mari,0.936
+Egyptian Arabic,0.88
+Emilian,0.92
+English,0.988
+Erzya,0.716
+Esperanto,0.976
+Estonian,0.948
+Extremaduran,0.94
+Faroese,0.984
+Fiji Hindi,0.892
+Finnish,0.996
+French,0.98
+Friulian,0.936
+Gagauz,0.876
+Galician,0.952
+Georgian,0.976
+German,0.956
+Gilaki,0.764
+Guarani,0.936
+Gujarati,0.956
+Haitian Creole,0.916
+Hakka Chinese,0.944
+Hausa,0.976
+Hebrew,1.0
+Hindi,0.96
+Hungarian,0.992
+Icelandic,1.0
+Ido,0.732
+Igbo,0.832
+Iloko,0.952
+Indonesian,0.648
+Interlingua,0.964
+Interlingue,0.9276595744680851
+Irish,0.976
+Italian,0.948
+Jamaican Patois,0.992
+Japanese,0.988
+Javanese,0.904
+Kabardian,1.0
+Kabyle,0.948
+Kannada,0.98
+Karachay-Balkar,0.964
+Karakalpak,0.98
+Kashubian,0.956
+Kazakh,0.992
+Kinyarwanda,0.94
+Kirghiz,0.964
+Komi,0.856
+Komi-Permyak,0.784
+Konkani,0.42
+Korean,0.984
+Kurdish,0.976
+Ladino,0.964
+Lao,0.876
+Latgalian,0.984
+Latin,0.9
+Latvian,0.98
+Lezghian,0.968
+Ligurian,0.96
+Limburgan,0.956
+Lingala,0.904
+Literary Chinese,0.96
+Lithuanian,0.992
+Livvi-Karelian,0.98
+Lojban,0.996
+Lombard,0.832
+Low German,0.956
+Lower Sorbian,0.956
+Luganda,0.968
+Luxembourgish,0.916
+Macedonian,0.952
+Maithili,0.94
+Malagasy,0.992
+Malay,0.684
+Malayalam,0.996
+Maltese,0.976
+Manx,0.976
+Maori,0.992
+Marathi,0.956
+Mazanderani,0.932
+Min Dong,0.948
+Min Nan Chinese,0.972
+Minangkabau,0.816
+Mingrelian,0.964
+Mirandese,0.988
+Modern Greek,0.988
+Moksha,0.92
+Mongolian,0.996
+Narom,0.936
+Navajo,1.0
+Neapolitan,0.956
+Nepali (macrolanguage),0.824
+Newari,0.972
+Northern Luri,0.904
+Northern Sami,0.892
+Northern Sotho,0.764
+Norwegian Nynorsk,0.888
+Occitan,0.768
+Old English ,0.884
+Oriya,0.948
+Oromo,0.968
+Ossetian,0.992
+Palatine German,0.9
+Pampanga,0.576
+Pangasinan,0.776
+Panjabi,0.988
+Papiamento,0.9839357429718876
+Pennsylvania German,0.776
+Persian,0.988
+Picard,0.664
+Polish,0.996
+Portuguese,0.92
+Pushto,0.944
+Quechua,0.912
+Ripuarisch,0.916
+Romanian,0.98
+Romansh,0.96
+Russian,0.996
+Rusyn,0.944
+Samogitian,0.996
+Sanskrit,0.988
+Sardinian,0.964
+Saterfriesisch,0.932
+Scots,0.924
+Scottish Gaelic,0.976
+Serbian,0.908
+Serbo-Croatian,0.504
+Shona,0.924
+Sicilian,0.98
+Silesian,0.972
+Sindhi,0.992
+Sinhala,0.94
+Slovak,0.984
+Slovene,0.952
+Somali,0.956
+South Azerbaijani,0.98
+Spanish,0.9
+Sranan,0.936
+Standard Chinese,0.784
+Sundanese,0.876
+Swahili (macrolanguage),0.948
+Swedish,0.972
+Tagalog,0.98
+Tajik,0.952
+Tamil,0.988
+Tarantino dialect,0.952
+Tatar,0.964
+Telugu,0.944
+Tetum,0.888
+Thai,0.992
+Tibetan,1.0
+Tongan,0.996
+Tswana,0.9959839357429718
+Tulu,0.992
+Turkish,0.984
+Turkmen,0.992
+Tuvan,0.952
+Udmurt,0.956
+Uighur,0.98
+Ukrainian,0.98
+Upper Sorbian,0.928
+Urdu,0.992
+Uzbek,0.996
+Venetian,0.944
+Veps,0.992
+Vietnamese,0.984
+Vlaams,0.952
+Volapük,0.848
+Võro,0.968
+Walloon,0.992
+Waray,0.992
+Welsh,0.984
+West Low German,0.936
+Western Frisian,0.988
+Western Mari,0.96
+Western Panjabi,0.98
+Wolof,0.944
+Wu Chinese,0.732
+Xhosa,0.92
+Yakut,0.976
+Yiddish,0.984
+Yoruba,0.844
+Zeeuws,0.876
+Average,0.9196052846969589

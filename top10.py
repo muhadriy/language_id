@@ -1,0 +1,1 @@
+LANG_LIST = ['English', 'German', 'Dutch', 'French', 'Italian', 'Spanish', 'Turkish', 'Russian', 'Polish', 'Ukrainian']
